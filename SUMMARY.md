@@ -9,7 +9,7 @@
 * [Getting Started](getting-started/README.md)
   * [Example Stories](getting-started/example-stories/README.md)
     * [Love Letter](getting-started/example-stories/love-letter.md)
-    * [Anime Samurai Story](getting-started/example-stories/anime-samurai-story.md)
+    * [Anime Samurai Story - Multi Page Solo Story](getting-started/example-stories/anime-samurai-story-multi-page-solo-story.md)
   * [How to Connect](getting-started/how-to-connect.md)
 * [Earn System](earn-system.md)
 * [Fee Structure](fee-structure.md)
