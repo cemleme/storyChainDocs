@@ -15,6 +15,7 @@
 * [Fee Structure](fee-structure.md)
 * [Technical](technical/README.md)
   * [NFT Generation Process](technical/nft-generation-process.md)
+  * [Blockchains and Cross Chain](technical/blockchains-and-cross-chain.md)
 * [Tokenomics](tokenomics.md)
 * [Security and Audit](security-and-audit.md)
 * [Social Media Links](social-media-links.md)
