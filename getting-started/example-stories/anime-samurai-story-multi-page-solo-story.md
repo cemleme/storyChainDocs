@@ -4,7 +4,5 @@ Anime Lovers! let's create an anime story together. In this story a samurai or r
 
 We want our story to be 5 chapters and get 5 NFTs for it.
 
-{% embed url="https://youtu.be/dgPb_H_k-oo" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=dgPb_H_k-oo" %}
 
