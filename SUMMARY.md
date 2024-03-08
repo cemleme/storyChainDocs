@@ -1,0 +1,18 @@
+# Table of contents
+
+* [About StoryChain](README.md)
+  * [Awards and Recognition](about-storychain/awards-and-recognition.md)
+  * [Features](about-storychain/features.md)
+  * [How it Differs?](about-storychain/how-it-differs.md)
+  * [Story Types](about-storychain/story-types.md)
+  * [AI Models](about-storychain/ai-models.md)
+* [Getting Started](getting-started/README.md)
+  * [Example Stories](getting-started/example-stories/README.md)
+    * [Love Letter](getting-started/example-stories/love-letter.md)
+    * [Anime Samurai Story](getting-started/example-stories/anime-samurai-story.md)
+  * [How to Connect](getting-started/how-to-connect.md)
+* [Earn System](earn-system.md)
+* [Fee Structure](fee-structure.md)
+* [Technical](technical/README.md)
+  * [NFT Generation Process](technical/nft-generation-process.md)
+* [Tokenomics](tokenomics.md)
