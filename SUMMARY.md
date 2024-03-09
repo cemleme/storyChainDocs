@@ -1,17 +1,25 @@
 # Table of contents
 
+## Welcome
+
 * [About StoryChain](README.md)
-  * [Awards and Recognition](about-storychain/awards-and-recognition.md)
-  * [Features](about-storychain/features.md)
-  * [How it Differs?](about-storychain/how-it-differs.md)
-  * [Story Types](about-storychain/story-types.md)
-  * [AI Models](about-storychain/ai-models.md)
-* [Getting Started](getting-started/README.md)
-  * [Example Stories](getting-started/example-stories/README.md)
-    * [Love Letter](getting-started/example-stories/love-letter.md)
-    * [Anime Samurai Story - Multi Page Solo Story](getting-started/example-stories/anime-samurai-story-multi-page-solo-story.md)
-  * [How to Connect](getting-started/how-to-connect/README.md)
-    * [Web2 Connection](getting-started/how-to-connect/web2-connection.md)
+* [Awards and Recognition](welcome/awards-and-recognition.md)
+* [Features](welcome/features.md)
+* [How it Differs?](welcome/how-it-differs.md)
+* [Story Types](welcome/story-types.md)
+* [AI Models](welcome/ai-models.md)
+
+## How To
+
+* [Getting Started](how-to/getting-started.md)
+* [Example Stories](how-to/example-stories/README.md)
+  * [Love Letter](how-to/example-stories/love-letter.md)
+  * [Anime Samurai Story - Multi Page Solo Story](how-to/example-stories/anime-samurai-story-multi-page-solo-story.md)
+* [How to Connect](how-to/how-to-connect.md)
+* [Web2 Connection](how-to/web2-connection.md)
+
+***
+
 * [Earn System](earn-system.md)
 * [Fee Structure](fee-structure.md)
 * [Technical](technical/README.md)
