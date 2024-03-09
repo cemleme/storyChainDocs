@@ -2,7 +2,7 @@
 
 Creating an NFT in StoryChain is very simple.&#x20;
 
-Once we are connected to the system ([how to connect](how-to-connect.md))
+Once we are connected to the system ([how to connect](how-to-connect/))
 
 We start on the create page:
 
