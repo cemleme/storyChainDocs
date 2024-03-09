@@ -8,4 +8,4 @@ StoryChain's NFT system differs from other projects in two key aspects:
 
 
 
-2\.     [StoryChain Earn System](../earn-system.md): Provides dividend income to NFT holders from new NFT generation fees, promoting community growth and passive earning opportunities.
+2\.     [StoryChain Earn System](../other/earn-system.md): Provides dividend income to NFT holders from new NFT generation fees, promoting community growth and passive earning opportunities.

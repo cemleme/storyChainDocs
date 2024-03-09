@@ -18,14 +18,14 @@
 * [How to Connect](how-to/how-to-connect.md)
 * [Web2 Connection](how-to/web2-connection.md)
 
-***
+## Other
 
-* [Earn System](earn-system.md)
-* [Fee Structure](fee-structure.md)
-* [Technical](technical/README.md)
-  * [NFT Generation Process](technical/nft-generation-process.md)
-  * [Blockchains and Cross Chain](technical/blockchains-and-cross-chain.md)
-* [Tokenomics](tokenomics.md)
-* [Security and Audit](security-and-audit.md)
-* [Social Media Links](social-media-links.md)
-* [FAQ and Help](faq-and-help.md)
+* [Earn System](other/earn-system.md)
+* [Fee Structure](other/fee-structure.md)
+* [Technical](other/technical/README.md)
+  * [NFT Generation Process](other/technical/nft-generation-process.md)
+  * [Blockchains and Cross Chain](other/technical/blockchains-and-cross-chain.md)
+* [Tokenomics](other/tokenomics.md)
+* [Security and Audit](other/security-and-audit.md)
+* [Social Media Links](other/social-media-links.md)
+* [FAQ and Help](other/faq-and-help.md)
