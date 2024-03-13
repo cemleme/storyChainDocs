@@ -4,4 +4,4 @@
 * Different story types are available including collaborative stories, solo stories, and special day stories such as love letters or Halloween stories.
 * StoryChain includes two on-chain tokens: STRC (StoryChapter NFT) and STRY (Story Token).
   * STRC is the NFT users receive when they create stories.
-  * STRY is used for creating stories, investment and governance token.
+  * STRY is the utility and voting token that will be used to participate in platform.

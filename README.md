@@ -8,7 +8,7 @@ description: Welcome to StoryChain
 
 {% embed url="https://youtu.be/MJDt0868oxg" %}
 
-Welcome to StoryChain, a pioneering decentralized application (dApp) that is transforming the landscape of collaborative storytelling by integrating the power of blockchain technology and artificial intelligence (AI). StoryChain offers a unique platform where creativity knows no bounds, enabling users to collectively create engaging narratives, each immortalized as a non-fungible token (NFT) on the blockchain. With a focus on fostering creativity and participation, StoryChain stands at the forefront of a new era in digital storytelling.
+Welcome to StoryChain, a pioneering decentralized application (dApp) that is transforming the landscape of collaborative storytelling by integrating the power of blockchain technology and artificial intelligence (AI). StoryChain offers a unique platform where creativity knows no bounds, enabling users to collectively create engaging narratives, each immortalized as a non-fungible token Digital Collectible on the blockchain. With a focus on fostering creativity and participation, StoryChain stands at the forefront of a new era in digital storytelling.
 
 <figure><img src=".gitbook/assets/howto.gif" alt=""><figcaption></figcaption></figure>
 

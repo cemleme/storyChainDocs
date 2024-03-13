@@ -1,8 +1,8 @@
 # Fee Structure
 
-NFT generation fee formula is (cost of generation x 3). The cost includes LLM AI cost, Image generation AI cost, hosting services and server, BNB Greenfield storage costs, operator transaction and minting costs and similar technical costs.
+NFT generation cost includes LLM AI cost, Image generation AI cost, hosting services and server, BNB Greenfield storage costs, operator transaction and minting costs and similar technical costs.
 
-The fees will be paid by BNB until the launch of STRY token and will continue with STRY token. As the cost of generation relies on services of USD price, the fee will be kept pegged to USD cost of generation.
+The generation fees will be paid by BNB until the launch of STRY token and will continue with STRY token. As the cost of generation relies on services of USD price, the fee will be kept pegged to USD cost of generation.
 
 Economic model aligns with a three-part division of fees among the team/investors, the community/users, and covering costs. This provides a clear structure for revenue distribution.
 
