@@ -8,17 +8,12 @@ Economic model aligns with a three-part division of fees among the community/use
 
 
 
-1. A portion of the fee is divided among Community/Users:
-
-* Rationale: Encourages community engagement and rewards users who hold NFTs, fostering a sense of ownership and loyalty.
-* Implementation: Distribute the portion of the story creation fee proportionally to NFT holders. This can be calculated based on the percentage of total NFT ownership.
-
-2. A portion of the fee is given to the treasury:
-
-* Rationale: Recognizes the efforts of the team and allows further development.
-* Implementation: Automatic allocation of the portion of the story creation fee to a fund designated for the team.
-
-3. Platform Costs:
-
-* Rationale: Ensures sustainability and covers ongoing operational costs, including fixed costs, AI expenses, and hosting.
-* Implementation: Direct allocation of the portion of the story creation fee to cover all associated costs.
+1. **Community/Users Portion:**
+   * **Rationale:** The portion of the fee allocated to the community and users serves to incentivize engagement and reward NFT holders, fostering a strong sense of ownership and loyalty among participants.
+   * **Implementation:** The distribution of this portion of the story creation fee will be calculated proportionally based on the percentage of total NFT ownership held by each user. Users will be able to claim their portion of the fee through a designated platform feature, ensuring fair and transparent distribution.
+2. **Treasury Allocation:**
+   * **Rationale:** A portion of the fee is allocated to the treasury to acknowledge the efforts of the team and facilitate further development initiatives. The treasury fund provides essential resources for ongoing platform enhancements and community-driven projects.
+   * **Implementation:** Automatic allocation of the story creation fee portion to the treasury will be facilitated, ensuring a steady flow of resources for team development efforts. The treasury fund's management and utilization will be conducted transparently, with regular updates provided to the community regarding fund allocation and project milestones.
+3. **Platform Costs:**
+   * **Rationale:** To ensure the long-term sustainability of the platform, a portion of the fee is allocated to cover operational expenses, including AI usage, hosting services, and other associated costs. This allocation safeguards the platform's stability and enables continuous improvements to user experience and functionality.
+   * **Implementation:** The designated portion of the story creation fee will be directly allocated to cover platform costs.
