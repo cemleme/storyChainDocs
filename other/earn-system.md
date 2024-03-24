@@ -4,4 +4,4 @@ StoryChain NFT owners earn as the community grows. A portion of the NFT generati
 
 This way the more you contribute, the more you earn, the more community earns.
 
-<figure><img src="../.gitbook/assets/feeStructure (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/feeStructure.png" alt=""><figcaption></figcaption></figure>
