@@ -10,7 +10,7 @@ At its core, StoryChain is a decentralized application (dApp) designed to revolu
 
 **Features That Empower Users**
 
-*   Prompt-Driven Story Generation: StoryChain's intuitive interface lets
+*   **Prompt-Driven Story Generation:** StoryChain's intuitive interface lets
 
     users kickstart their storytelling journey with a simple prompt. Whether a
 
@@ -19,7 +19,7 @@ At its core, StoryChain is a decentralized application (dApp) designed to revolu
     unique narrative crafted by AI and visualized through accompanying
 
     images minted together as an NFT.
-*   Diverse AI Models and Styles: Catering to a wide array of preferences
+*   **Diverse AI Models and Styles:** Catering to a wide array of preferences
 
     and creative visions, StoryChain integrates various AI models for story
 
@@ -28,7 +28,7 @@ At its core, StoryChain is a decentralized application (dApp) designed to revolu
     realistic to anime, pixel art to abstract, ensuring their story is told in a visual
 
     language that resonates with their personal aesthetic.
-*   Collaborative and Solo Storytelling: StoryChain introduces new ground
+*   **Collaborative and Solo Storytelling:** StoryChain introduces new ground
 
     by offering collaborative and solo storytelling modes. Users can embark on
 
@@ -37,7 +37,7 @@ At its core, StoryChain is a decentralized application (dApp) designed to revolu
     forces with others, weaving together a tapestry of creativity in collaborative
 
     stories.
-*   Special Day Stories and Competitions: The platform celebrates the
+*   **Special Day Stories and Competitions:** The platform celebrates the
 
     diversity of human experience by enabling the creation of memorable day
 
