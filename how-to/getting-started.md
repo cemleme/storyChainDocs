@@ -10,9 +10,9 @@ We start on the create page:
 Create Page
 {% endembed %}
 
-Here user needs to select the story type we want such as collaborative story or solo story. The types are explained [here](../welcome/story-types.md).
+Here user needs to select the story type we want such as collaborative story or solo story. The types are explained [here](broken-reference).
 
-After that users can select the Image AI model and the style they prefer. These models are explained [here](../welcome/ai-models.md). Users can also select different models and see example generations below the creation form.
+After that users can select the Image AI model and the style they prefer. These models are explained [here](broken-reference). Users can also select different models and see example generations below the creation form.
 
 Next users enter a story title and a prompt to direct the Language AI. AI uses the title and the prompt as the core of the theme to generate a story. Users don't need to enter a very large prompt, but it is advised to include at least 2 sentences.
 

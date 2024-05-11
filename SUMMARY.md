@@ -13,8 +13,6 @@
   * [Unique Aspects of StoryChain NFTs](welcome/how-it-differs/unique-aspects-of-storychain-nfts.md)
   * [Personal Connection and Community Growth](welcome/how-it-differs/personal-connection-and-community-growth.md)
   * [Economic Model and Fee Structure](welcome/how-it-differs/economic-model-and-fee-structure.md)
-* [Story Types](welcome/story-types.md)
-* [AI Models](welcome/ai-models.md)
 
 ## How To
 
