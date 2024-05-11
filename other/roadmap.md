@@ -34,7 +34,9 @@
 >
 > **Local Language Stories:** StoryChain will introduce support for stories written in diverse languages, facilitating broader user engagement and expanding its global reach.&#x20;
 >
-> **Onboarding Partners & Collaborators:** Forge partnerships with content creators, digital art communities, and tech partners to enrich the StoryChain ecosystem.  Continued Community Engagement: Host virtual and in-person meetups, writing workshops, and story contests to maintain momentum and engagement within the community.
+> **Onboarding Partners & Collaborators:** Forge partnerships with content creators, digital art communities, and tech partners to enrich the StoryChain ecosystem.&#x20;
+>
+> **Continued Community Engagement:** Host virtual and in-person meetups, writing workshops, and story contests to maintain momentum and engagement within the community.
 
 
 
