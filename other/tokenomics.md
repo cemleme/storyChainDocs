@@ -12,3 +12,6 @@ Allocation Data:
 
 
 
+**Disclaimer:**
+
+The tokenomics data provided herein is intended for informational purposes only and is subject to change. While we strive to ensure the accuracy and completeness of the information presented, please be aware that the tokenomics of our project may be adjusted with minor changes as we continue to develop and refine our ecosystem. We recommend regularly checking for updates to stay informed about any modifications. The use of this information is at your own risk, and we are not liable for any actions taken based on the content provided.
