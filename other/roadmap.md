@@ -24,8 +24,6 @@
 
 **Q3 2024: Development and Strategic Partnerships**&#x20;
 
-> **Mainnet Launch:** StoryChain will officially launch on the Binance Smart Chain (BSC) Mainnet, marking a significant milestone in its development journey.&#x20;
->
 > **Self-Written Stories:** Authors will gain the ability to write their own stories autonomously, with minimal language model intervention for moderation purposes only. The platform will then generate suitable images to accompany these stories, enhancing the storytelling experience.&#x20;
 >
 > **Avatar Page:** A dedicated space where users can create personalized Non- Fungible Tokens (NFTs) to showcase their credentials, links, or other desired information, accompanied by a generated image reflecting their unique identity.&#x20;
