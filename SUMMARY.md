@@ -9,12 +9,13 @@
   * [Solo and Special Day Stories](welcome/features/solo-and-special-day-stories.md)
   * [Competitions and Community Engagement](welcome/features/competitions-and-community-engagement.md)
   * [Integration of AI Models and Styles](welcome/features/integration-of-ai-models-and-styles.md)
+  * [Character Creation & Consistency](welcome/features/character-creation-and-consistency.md)
 * [How it Differs?](welcome/how-it-differs/README.md)
   * [Unique Aspects of StoryChain NFTs](welcome/how-it-differs/unique-aspects-of-storychain-nfts.md)
   * [Personal Connection and Community Growth](welcome/how-it-differs/personal-connection-and-community-growth.md)
   * [Economic Model and Fee Structure](welcome/how-it-differs/economic-model-and-fee-structure.md)
 * [StoryChain Quests](welcome/storychain-quests/README.md)
-  * [A New Way to Engage and Earn](welcome/storychain-quests/a-new-way-to-engage-and-earn.md)
+  * [Social Tasks: A New Way to Engage and Earn](welcome/storychain-quests/social-tasks-a-new-way-to-engage-and-earn.md)
 
 ## How To
 
