@@ -34,6 +34,7 @@
   * [NFT Generation Process](other/technical/nft-generation-process.md)
   * [Blockchains and Cross Chain](other/technical/blockchains-and-cross-chain.md)
   * [Security and Audit](other/technical/security-and-audit.md)
+* [Token Utility](other/token-utility.md)
 * [Tokenomics](other/tokenomics.md)
 * [Roadmap](other/roadmap.md)
 * [Social Media Links](other/social-media-links.md)
