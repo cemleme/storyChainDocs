@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Fee Structure
 
 NFT generation cost includes LLM AI cost, Image generation AI cost, hosting services and server, BNB Greenfield storage costs, operator transaction and minting costs and similar technical costs.
