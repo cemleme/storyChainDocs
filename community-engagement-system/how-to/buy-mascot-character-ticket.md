@@ -1,5 +1,7 @@
 # Buy Mascot / Character Ticket
 
+{% embed url="https://www.youtube.com/watch?v=1x6Obh6bdWo" %}
+
 _Bring your project to life with a custom mascot or character on StoryChain!_
 
 To get started, you’ll need a **Mascot Ticket**. Don’t worry—it’s easy!\

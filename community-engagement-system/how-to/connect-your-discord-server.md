@@ -1,5 +1,7 @@
 # Connect your Discord Server
 
+{% embed url="https://www.youtube.com/watch?v=mdSGlusQ1Pg" %}
+
 _Connecting your Discord server to StoryChain is quick and easy!_
 
 To get started, head over to the **Groups** section in your **Settings**.

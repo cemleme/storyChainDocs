@@ -1,5 +1,7 @@
 # Connect your Telegram Group / Channel
 
+{% embed url="https://www.youtube.com/watch?v=DiSP9UYNDH0" %}
+
 _Connecting your Telegram group or channel to StoryChain takes just a few seconds!_
 
 To get started, head over to the **Groups** section in your **Settings**.

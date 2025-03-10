@@ -1,5 +1,7 @@
 # Assign your mascot / character to a campaign
 
+{% embed url="https://www.youtube.com/watch?v=6ASITWtlJaE" %}
+
 _Now that your mascot or character is published, it’s time to put them to work!_
 
 To do this, you’ll need to **assign your mascot to a campaign**. Here’s how:\

@@ -1,5 +1,7 @@
 # Create a new Project
 
+{% embed url="https://www.youtube.com/watch?v=ZWftTNu_p5E" %}
+
 _Creating your project on StoryChain Community Engagement is super easy—and it takes less than 30 seconds!_
 
 First, just click **“Create Your Project.”**

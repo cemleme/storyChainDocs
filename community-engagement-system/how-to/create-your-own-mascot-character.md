@@ -1,5 +1,7 @@
 # Create your own Mascot / Character
 
+{% embed url="https://www.youtube.com/watch?v=86Rby5Sl450" %}
+
 _With StoryChain, you can create a unique mascot or character to represent your project and guide your community’s collaborative generations!_\
 This adds a fun, consistent element to all the stories created—through the same beloved character.
 

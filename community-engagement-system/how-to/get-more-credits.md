@@ -1,5 +1,7 @@
 # Get more Credits
 
+{% embed url="https://www.youtube.com/watch?v=3TczdiXlD8M" %}
+
 _StoryChain generations run on credits—and getting them is simple!_
 
 Head over to the **Credits** section on your **Settings** page. Here, you’ll see your **remaining credits** and have the option to **purchase more** whenever you need.

@@ -1,5 +1,7 @@
 # Ready to go Web UI
 
+{% embed url="https://www.youtube.com/watch?v=ShQpUclPFF0" %}
+
 _With StoryChain, every project gets its own ready-to-go Web UI for their community!_
 
 Your users can explore all the generations and even create brand-new stories—right from the Web UI.
