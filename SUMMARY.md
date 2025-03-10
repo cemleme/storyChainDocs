@@ -29,6 +29,7 @@
   * [Get more Credits](community-engagement-system/how-to/get-more-credits.md)
   * [Buy Mascot / Character Ticket](community-engagement-system/how-to/buy-mascot-character-ticket.md)
   * [Create your own Mascot / Character](community-engagement-system/how-to/create-your-own-mascot-character.md)
+  * [Assign your mascot / character to a campaign](community-engagement-system/how-to/assign-your-mascot-character-to-a-campaign.md)
 
 ## How To
 
