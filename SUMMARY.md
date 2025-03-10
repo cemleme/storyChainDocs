@@ -17,6 +17,19 @@
 * [StoryChain Quests](welcome/storychain-quests/README.md)
   * [Social Tasks: A New Way to Engage and Earn](welcome/storychain-quests/social-tasks-a-new-way-to-engage-and-earn.md)
 
+## Community Engagement System
+
+* [What is StoryChain Community Engagement System?](community-engagement-system/what-is-storychain-community-engagement-system.md)
+* [How To](community-engagement-system/how-to/README.md)
+  * [Create a new Project](community-engagement-system/how-to/create-a-new-project.md)
+  * [Enable / Disable Generations](community-engagement-system/how-to/enable-disable-generations.md)
+  * [Ready to go Web UI](community-engagement-system/how-to/ready-to-go-web-ui.md)
+  * [Connect your Telegram Group / Channel](community-engagement-system/how-to/connect-your-telegram-group-channel.md)
+  * [Connect your Discord Server](community-engagement-system/how-to/connect-your-discord-server.md)
+  * [Get more Credits](community-engagement-system/how-to/get-more-credits.md)
+  * [Buy Mascot / Character Ticket](community-engagement-system/how-to/buy-mascot-character-ticket.md)
+  * [Create your own Mascot / Character](community-engagement-system/how-to/create-your-own-mascot-character.md)
+
 ## How To
 
 * [Getting Started](how-to/getting-started.md)
