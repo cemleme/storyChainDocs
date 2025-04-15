@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Blockchains and Cross Chain
 
 StoryChain will initially be deployed on the Binance Smart Chain (BSC) for its launch phase. Following this, the platform plans to expand its reach by integrating with various Ethereum Virtual Machine (EVM) compatible chains for cross-chain functionality.

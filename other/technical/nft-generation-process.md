@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # NFT Generation Process
 
 The creation and minting of NFTs on StoryChain are designed to be a seamless and engaging experience for users, enabling them to transform their creative ideas into unique digital assets securely and efficiently. This chapter provides a detailed, step-by-step breakdown of the NFT generation process on the StoryChain platform, highlighting the technological sophistication and user-friendly interface that facilitate this innovative procedure.
