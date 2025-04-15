@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Economic Model and Fee Structure
 
 **Token Utility and Participation:** StoryChain employs STRC tokens to represent the NFTs, encapsulating the stories and art. STRY tokens serve as utility tokens and are used for transactions within the platform, such as creating new stories, upgrading NFTs by animating the NFTs or interacting with the platform, such as chatting with the NFT system. This structure incentivizes participation and investment in the ecosystem, aligning user interests with the platform's growth.
