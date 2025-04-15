@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQ and Help
 
 **Which network does StoryChain run on?**&#x20;

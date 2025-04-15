@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Roadmap
 
 **Q2 2024: Establishing Foundations and Strengthening Visibility**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tokenomics
 
 STRY Token
