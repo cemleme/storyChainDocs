@@ -11,7 +11,7 @@ It blends storytelling, AI, and game-like objectives so you can:
 
 ## Why it matters
 
-* **For players**: It turns conversation into an interactive adventure—explore worlds, solve challenges, and build a badge collection.
+* **For players**: It turns conversation into an interactive adventure; explore story worlds, solve challenges, and build a badge collection.
 * **For creators**: Your characters become interactive agents. As the community engages, you earn from their activity via the Energy economy.
 
 ## Core concepts
@@ -50,7 +50,7 @@ It blends storytelling, AI, and game-like objectives so you can:
 
 ## Earning for creators
 
-* **Revenue share**: When users spend paid Energy on your character (chat, hints, mints, scenarios), you earn a direct share—currently 30% of all paid Energy spent on your character.
+* **Revenue share**: When users spend paid Energy on your character (chat, hints, mints, scenarios), you earn a direct share; currently 30% of all paid Energy (which is more than 50% after costs!) spent on your character.
 * **Analytics**: View your withdrawable balance (USDT-equivalent), total monetized Energy, messages, likes, mints, and more.
 * **Withdrawals**: Request payouts once you meet the minimum threshold (e.g., $0.20). Processing completes shortly after submission.
 
@@ -88,7 +88,7 @@ It blends storytelling, AI, and game-like objectives so you can:
 
 **How are leaderboards calculated?**
 
-* Leaderboards track top activity across badges, messages, and character metrics. Periods (e.g., weekly/monthly) may apply.
+* Leaderboards track top activity across badges, messages, and character metrics. Periods (e.g., weekly) may apply.
 
 **Can I continue my old chats?**
 
