@@ -17,6 +17,17 @@
 * [StoryChain Quests](welcome/storychain-quests/README.md)
   * [Social Tasks: A New Way to Engage and Earn](welcome/storychain-quests/social-tasks-a-new-way-to-engage-and-earn.md)
 
+## StoryChain Chat
+
+* [What is StoryChain Chat?](storychain-chat/what-is-storychain-chat.md)
+* [How To](storychain-chat/how-to/README.md)
+  * [Create Your Character](storychain-chat/how-to/create-your-character.md)
+  * [Character Public Knowledge](storychain-chat/how-to/character-public-knowledge.md)
+  * [Create New Scenarios](storychain-chat/how-to/create-new-scenarios.md)
+  * [Turn Stories into Scenarios](storychain-chat/how-to/turn-stories-into-scenarios.md)
+  * [Add Objectives & Success Conditions](storychain-chat/how-to/add-objectives-and-success-conditions.md)
+  * [Introduction to Scenario Rules](storychain-chat/how-to/introduction-to-scenario-rules.md)
+
 ## Community Engagement System
 
 * [What is StoryChain Community Engagement System?](community-engagement-system/what-is-storychain-community-engagement-system.md)
